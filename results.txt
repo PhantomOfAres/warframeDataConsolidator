@@ -1,6 +1,7 @@
 
 
 [ArchwingPursuitRewards]
+- Saturn, Pandora, MT_PURSUIT, FC_GRINEER, NT_MISSION
 
 
 Rotation A:
@@ -28,6 +29,29 @@ Mod Chance: 0 (types: [])
 
 
 [CaptureMissionRewardsA]
+- Mercury, Elion, MT_CAPTURE, FC_GRINEER, NT_MISSION
+- Venus, Venera, MT_CAPTURE, FC_CORPUS, NT_MISSION
+- Earth, Mantle, MT_CAPTURE, FC_GRINEER, NT_MISSION
+- Mars, Quirinus, MT_CAPTURE, FC_CORPUS, NT_EVENT
+- Jupiter, Ananke, MT_CAPTURE, FC_CORPUS, NT_MISSION
+- Saturn, Phoebe, MT_CAPTURE, FC_GRINEER, NT_EVENT
+- Saturn, Cassini, MT_CAPTURE, FC_GRINEER, NT_MISSION
+- Uranus, Desdemona, MT_CAPTURE, FC_GRINEER, NT_MISSION
+- Uranus, Trinculo, MT_CAPTURE, FC_GRINEER, NT_EVENT
+- Neptune, Galatea, MT_CAPTURE, FC_CORPUS, NT_MISSION
+- Pluto, Hydra, MT_CAPTURE, FC_CORPUS, NT_MISSION
+- Pluto, Corb, MT_CAPTURE, FC_CORPUS, NT_EVENT
+- Eris, Cosis, MT_CAPTURE, FC_INFESTATION, NT_EVENT
+- Eris, Isos, MT_CAPTURE, FC_INFESTATION, NT_MISSION
+- Europa, Abaddon, MT_CAPTURE, FC_CORPUS, NT_MISSION
+- Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS, NT_EVENT
+- Europa, Beleth, MT_CAPTURE, FC_CORPUS, NT_EVENT
+- Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS, NT_EVENT
+- Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS, NT_EVENT
+- Void, Hepit, MT_CAPTURE, FC_OROKIN, NT_MISSION
+- Void, Ukko, MT_CAPTURE, FC_OROKIN, NT_MISSION
+- Phobos, Limtoc, MT_CAPTURE, FC_GRINEER, NT_EVENT
+- Phobos, Todd, MT_CAPTURE, FC_GRINEER, NT_EVENT
 
 
 Rotation A:
@@ -66,6 +90,7 @@ Mod Chance: 0 (types: [])
 
 
 [CorpusArenaWagerRewardsEasy]
+- Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_EVENT
 
 
 Rotation A:
@@ -93,6 +118,7 @@ Mod Chance: 0 (types: [])
 
 
 [CorpusArenaWagerRewardsHard]
+- Neptune, THE INDEX: ENDURANCE, MT_ARENA, FC_CORPUS, NT_EVENT
 
 
 Rotation A:
@@ -120,6 +146,7 @@ Mod Chance: 0 (types: [])
 
 
 [CorpusArenaWagerRewardsMedium]
+- Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_EVENT
 
 
 Rotation A:
@@ -147,6 +174,7 @@ Mod Chance: 0 (types: [])
 
 
 [DefenseMissionRewards/ArchwingDefenceMissionRewardsEasy]
+- Phobos, Kepler, MT_RACE, FC_CORPUS, NT_MISSION
 
 
 Rotation A:
@@ -174,6 +202,19 @@ Mod Chance: 22.56 (types: ['Meteor Crash', 'Nebula Bore', 'Astral Slash'])
 
 
 [DefenseMissionRewards/BadlandsDefenseMissionRewards]
+- Venus, Romula, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+- Earth, Coba, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+- Mars, Kadesh, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+- Jupiter, Sinai, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+- Saturn, Caracol, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+- Uranus, Ur, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+- Neptune, Yursa, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+- Pluto, Sechura, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+- Ceres, Seimeni, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+- Eris, Akkad, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+- Sedna, Sangeru, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+- Europa, Larzac, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+- Phobos, Memphis, MT_DEFENSE, FC_INFESTATION, NT_CLAN
 
 
 Rotation A:
@@ -201,6 +242,16 @@ Mod Chance: 41.2 (types: ['Hellfire', 'Heated Charge', 'Molten Impact', 'Barrel 
 
 
 [DefenseMissionRewards/DefenseMissionRewardsEasy]
+- Mercury, Lares, MT_DEFENSE, FC_INFESTATION, NT_MISSION
+- Venus, Tessera, MT_DEFENSE, FC_CORPUS, NT_MISSION
+- Earth, Lith, MT_DEFENSE, FC_GRINEER, NT_MISSION
+- Mars, Spear, MT_DEFENSE, FC_GRINEER, NT_MISSION
+- Ceres, Varro, MT_DEFENSE, FC_GRINEER, NT_EVENT
+- Ceres, Casta, MT_DEFENSE, FC_GRINEER, NT_MISSION
+- Ceres, Egeria, MT_DEFENSE, FC_GRINEER, NT_EVENT
+- Void, Taranis, MT_DEFENSE, FC_OROKIN, NT_MISSION
+- Phobos, Drunlo, MT_DEFENSE, FC_GRINEER, NT_EVENT
+- Phobos, Gulliver, MT_DEFENSE, FC_CORPUS, NT_MISSION
 
 
 Rotation A:
@@ -228,6 +279,15 @@ Mod Chance: 36.36 (types: ['Metal Auger', 'Ravage', 'Continuity', 'Master Thief'
 
 
 [DefenseMissionRewards/DefenseMissionRewardsHard]
+- Uranus, Miranda, MT_DEFENSE, FC_GRINEER, NT_EVENT
+- Uranus, Bianca, MT_DEFENSE, FC_GRINEER, NT_EVENT
+- Neptune, Proteus, MT_DEFENSE, FC_CORPUS, NT_MISSION
+- Pluto, Outer Terminus, MT_DEFENSE, FC_CORPUS, NT_MISSION
+- Eris, Kala-azar, MT_DEFENSE, FC_INFESTATION, NT_MISSION
+- Eris, Ixodes, MT_DEFENSE, FC_INFESTATION, NT_EVENT
+- Sedna, Hydron, MT_DEFENSE, FC_GRINEER, NT_MISSION
+- Void, Belenus, MT_DEFENSE, FC_OROKIN, NT_MISSION
+- LUA, Stöfler, MT_DEFENSE, FC_GRINEER, NT_MISSION
 
 
 Rotation A:
@@ -255,6 +315,11 @@ Mod Chance: 20.34 (types: ['Vital Sense', 'Metal Auger', 'Ravage', 'Stretch', 'H
 
 
 [DefenseMissionRewards/DefenseMissionRewardsMedium]
+- Jupiter, Io, MT_DEFENSE, FC_CORPUS, NT_MISSION
+- Saturn, Helene, MT_DEFENSE, FC_GRINEER, NT_MISSION
+- Saturn, Birog, MT_DEFENSE, FC_GRINEER, NT_EVENT
+- Sedna, Camenae, MT_DEFENSE, FC_GRINEER, NT_EVENT
+- Europa, Paimon, MT_DEFENSE, FC_CORPUS, NT_MISSION
 
 
 Rotation A:
@@ -336,6 +401,10 @@ Mod Chance: 0 (types: [])
 
 
 [ExtractionMissionRewards/ExtractionHighLevelRewards]
+- Neptune, Despina, MT_EXCAVATE, FC_CORPUS, NT_MISSION
+- Pluto, Hieracon, MT_EXCAVATE, FC_INFESTATION, NT_CLAN
+- Europa, Cryotic Front, MT_EXCAVATE, FC_CORPUS, NT_EVENT
+- Europa, Cholistan, MT_EXCAVATE, FC_INFESTATION, NT_CLAN
 
 
 Rotation A:
@@ -363,6 +432,11 @@ Mod Chance: 22.56 (types: ['Cleanse Infested', 'Pistol Ammo Mutation', 'Arrow Mu
 
 
 [ExtractionMissionRewards/ExtractionLowLevelRewards]
+- Venus, Kiliken, MT_EXCAVATE, FC_CORPUS, NT_MISSION
+- Earth, Everest, MT_EXCAVATE, FC_GRINEER, NT_MISSION
+- Earth, Tikal, MT_EXCAVATE, FC_INFESTATION, NT_CLAN
+- Mars, Augustus, MT_EXCAVATE, FC_GRINEER, NT_MISSION
+- Phobos, Wendell, MT_EXCAVATE, FC_GRINEER, NT_EVENT
 
 
 Rotation A:
@@ -390,6 +464,8 @@ Mod Chance: 22.56 (types: ['Arrow Mutation', 'Rifle Ammo Mutation', 'Sniper Ammo
 
 
 [ExtractionMissionRewards/ExtractionMidLevelRewards]
+- Europa, Lillith, MT_EXCAVATE, FC_CORPUS, NT_EVENT
+- Europa, Valefor, MT_EXCAVATE, FC_CORPUS, NT_MISSION
 
 
 Rotation A:
@@ -417,6 +493,8 @@ Mod Chance: 22.56 (types: ['Cleanse Corpus', 'Pistol Ammo Mutation', 'Arrow Muta
 
 
 [InterceptionMissionRewards/ArchwingInterceptionMissionRewardsHard]
+- Uranus, Caelus, MT_TERRITORY, FC_GRINEER, NT_MISSION
+-Lined Barrel, UNCOMMON, 2.51%
 
 
 Rotation A:
@@ -444,6 +522,10 @@ Mod Chance: 0 (types: [])
 
 
 [InterceptionMissionRewards/InterceptionMissionRewardsEasy]
+- Mercury, Odin, MT_TERRITORY, FC_GRINEER, NT_MISSION
+- Venus, Cytherean, MT_TERRITORY, FC_CORPUS, NT_MISSION
+- Earth, Gaia, MT_TERRITORY, FC_GRINEER, NT_MISSION
+- Ceres, Cinxia, MT_TERRITORY, FC_GRINEER, NT_MISSION
 
 
 Rotation A:
@@ -471,6 +553,13 @@ Mod Chance: 2.58 (types: ['Natural Talent'])
 
 
 [InterceptionMissionRewards/InterceptionMissionRewardsHard]
+- Uranus, Stephano, MT_TERRITORY, FC_GRINEER, NT_MISSION
+- Pluto, Cerberus, MT_TERRITORY, FC_CORPUS, NT_MISSION
+- Eris, Sporid, MT_TERRITORY, FC_INFESTATION, NT_EVENT
+- Eris, Phalan, MT_TERRITORY, FC_INFESTATION, NT_EVENT
+- Eris, Xini, MT_TERRITORY, FC_INFESTATION, NT_MISSION
+- Sedna, Berehynia, MT_TERRITORY, FC_GRINEER, NT_MISSION
+- Void, Mithra, MT_TERRITORY, FC_GRINEER, NT_MISSION
 
 
 Rotation A:
@@ -498,6 +587,11 @@ Mod Chance: 0 (types: [])
 
 
 [InterceptionMissionRewards/InterceptionMissionRewardsMedium]
+- Jupiter, Callisto, MT_TERRITORY, FC_CORPUS, NT_MISSION
+- Saturn, Iapetus, MT_TERRITORY, FC_GRINEER, NT_EVENT
+- Saturn, Rhea, MT_TERRITORY, FC_GRINEER, NT_MISSION
+- Uranus, Umbriel, MT_TERRITORY, FC_GRINEER, NT_MISSION
+- Europa, Ose, MT_TERRITORY, FC_CORPUS, NT_MISSION
 
 
 Rotation A:
@@ -617,6 +711,7 @@ Mod Chance: 41.21 (types: ['Deep Freeze', 'North Wind', 'Cryo Rounds', "Hell's C
 
 
 [MissionRewardsInfested]
+- Phobos, Opik, MT_RACE, FC_CORPUS, NT_EVENT
 
 
 Rotation A:
@@ -655,6 +750,8 @@ Mod Chance: 52.58 (types: ['RIFT SIGIL', 'Stunning Speed', 'Hammer Shot', 'Blaze
 
 
 [ProjectSinisterRewardsBonus]
+-Applicator, RARE, 1.01%
+-Loaded Chamber, UNCOMMON, 5.53%
 
 
 Rotation A:
@@ -682,6 +779,8 @@ Mod Chance: 100.01 (types: ['Shrapnel Shot', 'Catalyzer Link', 'Laser Sight', 'W
 
 
 [ProjectSinisterRewardsFinal]
+-Loaded Chamber, UNCOMMON, 2.21%
+-Applicator, RARE, 0.67%
 
 
 Rotation A:
@@ -693,6 +792,9 @@ Mod Chance: 99.99 (types: ['Shrapnel Shot', 'Catalyzer Link', 'Hydraulic Crossha
 
 
 [SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards]
+- Uranus, Assur, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+- Neptune, Kelashin, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+- Sedna, Amarna, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
 
 
 Rotation A:
@@ -720,6 +822,8 @@ Mod Chance: 22.56 (types: ['Enduring Strike', 'Life Strike'])
 
 
 [SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards]
+- Venus, Malva, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+- Ceres, Gabii, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
 
 
 Rotation A:
@@ -747,6 +851,10 @@ Mod Chance: 22.56 (types: ['True Punishment', 'Quickening'])
 
 
 [SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards]
+- Mars, Wahiba, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+- Jupiter, Cameria, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+- Saturn, Piscinas, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+- Phobos, Zeugma, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
 
 
 Rotation A:
@@ -774,6 +882,7 @@ Mod Chance: 22.56 (types: ['Quickening', 'Enduring Strike'])
 
 
 [SurvivalMissionRewards/SurvivalBadlandsUltraLevelRewards]
+- Eris, Zabala, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
 
 
 Rotation A:
@@ -820,6 +929,15 @@ Mod Chance: 0 (types: [])
 
 
 [SurvivalMissionRewards/SurvivalHighLevelRewards]
+- Uranus, Ophelia, MT_SURVIVAL, FC_GRINEER, NT_MISSION
+- Uranus, Cupid, MT_SURVIVAL, FC_GRINEER, NT_EVENT
+- Pluto, Palus, MT_SURVIVAL, FC_CORPUS, NT_MISSION
+- Eris, Hymeno, MT_SURVIVAL, FC_INFESTATION, NT_EVENT
+- Eris, Nimus, MT_SURVIVAL, FC_INFESTATION, NT_MISSION
+- Sedna, Selkie, MT_SURVIVAL, FC_GRINEER, NT_MISSION
+- Sedna, Scylla, MT_SURVIVAL, FC_GRINEER, NT_EVENT
+- Sedna, Yemaja, MT_SURVIVAL, FC_GRINEER, NT_EVENT
+- LUA, Tycho, MT_SURVIVAL, FC_CORPUS, NT_MISSION
 
 
 Rotation A:
@@ -847,6 +965,9 @@ Mod Chance: 22.56 (types: ['Cleanse Infested', 'Pistol Ammo Mutation', 'Arrow Mu
 
 
 [SurvivalMissionRewards/SurvivalLowLevelRewards]
+- Mercury, Apollodorus, MT_SURVIVAL, FC_INFESTATION, NT_MISSION
+- Mars, Arcadia, MT_SURVIVAL, FC_CORPUS, NT_EVENT
+- Phobos, Flimnap, MT_SURVIVAL, FC_GRINEER, NT_EVENT
 
 
 Rotation A:
@@ -874,6 +995,12 @@ Mod Chance: 22.56 (types: ['Arrow Mutation', 'Rifle Ammo Mutation', 'Sniper Ammo
 
 
 [SurvivalMissionRewards/SurvivalMidLevelRewards]
+- Jupiter, Elara, MT_SURVIVAL, FC_CORPUS, NT_MISSION
+- Saturn, Titan, MT_SURVIVAL, FC_GRINEER, NT_MISSION
+- Ceres, Draco, MT_SURVIVAL, FC_GRINEER, NT_MISSION
+- Europa, Zagan, MT_SURVIVAL, FC_CORPUS, NT_EVENT
+- Void, Ani, MT_SURVIVAL, FC_OROKIN, NT_MISSION
+- Phobos, Stickney, MT_SURVIVAL, FC_CORPUS, NT_MISSION
 
 
 Rotation A:
@@ -901,6 +1028,7 @@ Mod Chance: 22.56 (types: ['Cleanse Corpus', 'Pistol Ammo Mutation', 'Arrow Muta
 
 
 [SurvivalMissionRewards/SurvivalUltraLevelRewards]
+- Void, Mot, MT_SURVIVAL, FC_OROKIN, NT_MISSION
 
 
 Rotation A:

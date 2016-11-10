@@ -15,10 +15,7 @@ for token in tokens:
 
   regex = re.compile('-.*')
   locations = regex.findall(token)
-  if len(locations) > 0:
-    result['locations'] = locations
-  #else:
-    #continue
+  result['locations'] = locations
 
   if "VoidKey" in result['name']:
     continue
@@ -85,6 +82,8 @@ for token in tokens:
 for result in results:
   print('\n')
   print(result['name'])
+  for location in result['locations']:
+    print(location)
   for key, elem in result.items():
     if "Rotation" in key:
       print('\n')
