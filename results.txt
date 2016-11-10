@@ -1,0 +1,927 @@
+
+
+[ArchwingPursuitRewards]
+
+
+Rotation A:
+Endo Chance: 34.96 (average per drop: 82.7316933638, per run: 28.923)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 65.04 (types: ['Tempered Blade', 'Sudden Impact', 'Poisonous Sting', 'Glacial Edge', 'Galvanized Blade', 'Furor'])
+
+
+Rotation B:
+Endo Chance: 77.44 (average per drop: 150.0, per run: 116.16)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 22.56 (types: ['Extend', 'Superior Defenses', 'Cutting Edge', 'System Reroute', 'Efficient Transferral', 'Blazing Steel'])
+
+
+Rotation C:
+Endo Chance: 14.29 (average per drop: 400.0, per run: 57.16)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 85.74 (types: ['1 MESO D1 RELIC', '1 MESO F1 RELIC', '1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 MESO S1 RELIC', '1 MESO V1 RELIC'])
+Mod Chance: 0 (types: [])
+
+
+[CaptureMissionRewardsA]
+
+
+Rotation A:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0.85 (types: ['1 LITH C1 RELIC', '1 LITH V1 RELIC', '1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 NEO N3 RELIC'])
+Mod Chance: 99.15 (types: ['Vitality', 'Fast Deflection', 'Fast Deflection', 'Rush', 'Magazine Warp', 'Trick Mag', 'Pressure Point', 'Ammo Drum', 'Fast Hands', 'Quickdraw', 'HEALTH RESTORE', 'OMNI AMMO BOX', 'North Wind', 'Shocking Touch', 'Molten Impact', 'Vitality', 'Stretch'])
+
+
+[ClemCloneRewards]
+
+
+Rotation A:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 100.0 (types: ['1 CLEM CLONE BLUEPRINT'])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 100.0 (types: ['1 CLEM CLONE BLUEPRINT'])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 100.0 (types: ['1 CLEM CLONE BLUEPRINT'])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+[CorpusArenaWagerRewardsEasy]
+
+
+Rotation A:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 100.0 (average per drop: 1500.0, per run: 1500.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 100.0 (average per drop: 3000.0, per run: 3000.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 100.0 (average per drop: 6000.0, per run: 6000.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+[CorpusArenaWagerRewardsHard]
+
+
+Rotation A:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 100.0 (average per drop: 45000.0, per run: 45000.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 100.0 (average per drop: 60000.0, per run: 60000.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 100.0 (average per drop: 75000.0, per run: 75000.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+[CorpusArenaWagerRewardsMedium]
+
+
+Rotation A:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 100.0 (average per drop: 15000.0, per run: 15000.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 100.0 (average per drop: 25000.0, per run: 25000.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 100.0 (average per drop: 35000.0, per run: 35000.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+[DefenseMissionRewards/ArchwingDefenceMissionRewardsEasy]
+
+
+Rotation A:
+Endo Chance: 14.29 (average per drop: 150.0, per run: 21.435)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 85.74 (types: ['Tempered Blade', 'Sudden Impact', 'Poisonous Sting', 'Glacial Edge', 'Galvanized Blade', 'Furor'])
+
+
+Rotation B:
+Endo Chance: 77.44 (average per drop: 150.0, per run: 116.16)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 22.56 (types: ['Extend', 'Superior Defenses', 'Cutting Edge', 'System Reroute', 'Efficient Transferral', 'Blazing Steel'])
+
+
+Rotation C:
+Endo Chance: 11.06 (average per drop: 400.0, per run: 44.24)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 66.36 (types: ['1 LITH C1 RELIC', '1 LITH N1 RELIC', '1 LITH S3 RELIC', '1 LITH V1 RELIC', '1 LITH K1 RELIC', '1 LITH A1 RELIC'])
+Mod Chance: 22.56 (types: ['Meteor Crash', 'Nebula Bore', 'Astral Slash'])
+
+
+[DefenseMissionRewards/BadlandsDefenseMissionRewards]
+
+
+Rotation A:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 13.8 (types: ['1 LITH C1 RELIC', '1 LITH V1 RELIC', '1 LITH N1 RELIC', '1 LITH S3 RELIC', '1 LITH A1 RELIC'])
+Mod Chance: 86.2 (types: ['Vitality', 'Fast Deflection', 'Fast Deflection', 'Rush', 'Magazine Warp', 'Trick Mag', 'Pressure Point', 'Ammo Drum', 'Fast Hands', 'True Punishment'])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 9.2 (types: ['1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 MESO D1 RELIC', '1 MESO F1 RELIC', '1 MESO V1 RELIC'])
+Mod Chance: 90.76 (types: ['Speed Trigger', 'Fast Hands', 'Point Strike', 'Vital Sense', 'Piercing Hit', 'Metal Auger', 'Pistol Gambit', 'Target Cracker', 'No Return', 'Ravage', 'Blunderbuss', 'Point Blank', 'Serration', 'Hornet Strike', 'Fury', 'Reflex Coil', 'Pressure Point', 'True Punishment', 'Quickening'])
+
+
+Rotation C:
+Endo Chance: 17.39 (average per drop: 53.8125359402, per run: 9.358)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 41.41 (types: ['1 NEO N3 RELIC', '1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 NEO S1 RELIC', '1 NEO V2 RELIC', '1 NEO S3 RELIC', '1 NEO N2 RELIC'])
+Mod Chance: 41.2 (types: ['Hellfire', 'Heated Charge', 'Molten Impact', 'Barrel Diffusion', 'Streamline', 'Intensify', 'Thunderbolt', 'True Punishment', 'Quickening', 'Enduring Strike', 'Life Strike'])
+
+
+[DefenseMissionRewards/DefenseMissionRewardsEasy]
+
+
+Rotation A:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 54.54 (types: ['1 LITH A1 RELIC', '1 LITH K1 RELIC', '1 LITH C1 RELIC', '1 LITH N1 RELIC', '1 LITH V1 RELIC', '1 MESO S2 RELIC'])
+Mod Chance: 45.45 (types: ['Vitality', 'Magazine Warp', 'Trick Mag', 'Pressure Point', 'Ammo Drum'])
+
+
+Rotation B:
+Endo Chance: 9.09 (average per drop: 50.0, per run: 4.545)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 54.54 (types: ['1 MESO D1 RELIC', '1 MESO F1 RELIC', '1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 MESO S1 RELIC', '1 MESO V1 RELIC'])
+Mod Chance: 36.36 (types: ['Reflex Coil', 'Cryo Rounds', "Hell's Chamber", 'Shocking Touch'])
+
+
+Rotation C:
+Endo Chance: 9.09 (average per drop: 80.0, per run: 7.272)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 54.54 (types: ['1 MESO V2 RELIC', '1 MESO S2 RELIC', '1 MESO F1 RELIC', '1 MESO D1 RELIC', '1 MESO S1 RELIC', '1 MESO V1 RELIC'])
+Mod Chance: 36.36 (types: ['Metal Auger', 'Ravage', 'Continuity', 'Master Thief'])
+
+
+[DefenseMissionRewards/DefenseMissionRewardsHard]
+
+
+Rotation A:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 66.66 (types: ['1 NEO S1 RELIC', '1 NEO V2 RELIC', '1 NEO S3 RELIC', '1 NEO N3 RELIC', '1 NEO V3 RELIC', '1 NEO N2 RELIC'])
+Mod Chance: 33.33 (types: ['Vitality', 'Magazine Warp', 'Trick Mag'])
+
+
+Rotation B:
+Endo Chance: 6.25 (average per drop: 50.0, per run: 3.125)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 50.0 (types: ['1 AXI G1 RELIC', '1 AXI T1 RELIC', '1 AXI V1 RELIC', '1 AXI N3 RELIC', '1 AXI N1 RELIC', '1 AXI N2 RELIC', '1 AXI A1 RELIC', '1 AXI V3 RELIC'])
+Mod Chance: 43.75 (types: ['Hornet Strike', 'Reflex Coil', 'Deep Freeze', 'North Wind', "Hell's Chamber", 'Streamline', 'Shocking Touch'])
+
+
+Rotation C:
+Endo Chance: 2.26 (average per drop: 80.0, per run: 1.808)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 77.44 (types: ['1 AXI G1 RELIC', '1 AXI T1 RELIC', '1 AXI V1 RELIC', '1 AXI N3 RELIC', '1 AXI N1 RELIC', '1 AXI N2 RELIC', '1 AXI A1 RELIC', '1 AXI V3 RELIC'])
+Mod Chance: 20.34 (types: ['Vital Sense', 'Metal Auger', 'Ravage', 'Stretch', 'Handspring', 'Convulsion', 'Split Chamber', 'Continuity', 'Master Thief'])
+
+
+[DefenseMissionRewards/DefenseMissionRewardsMedium]
+
+
+Rotation A:
+Endo Chance: 14.29 (average per drop: 15.0, per run: 2.1435)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 85.74 (types: ['1 MESO D1 RELIC', '1 MESO F1 RELIC', '1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 MESO S1 RELIC', '1 MESO V1 RELIC'])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 6.67 (average per drop: 50.0, per run: 3.335)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 40.02 (types: ['1 NEO S1 RELIC', '1 NEO V2 RELIC', '1 NEO N3 RELIC', '1 NEO N2 RELIC', '1 NEO V3 RELIC', '1 NEO S3 RELIC'])
+Mod Chance: 53.36 (types: ['Reflex Coil', 'Deep Freeze', 'North Wind', 'Cryo Rounds', "Hell's Chamber", 'Stormbringer', 'Point Blank', 'Fury'])
+
+
+Rotation C:
+Endo Chance: 4.51 (average per drop: 80.0, per run: 3.608)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 77.46 (types: ['1 NEO S1 RELIC', '1 NEO V2 RELIC', '1 NEO S3 RELIC', '1 NEO N3 RELIC', '1 NEO V3 RELIC', '1 NEO N2 RELIC'])
+Mod Chance: 18.04 (types: ['Vital Sense', 'Metal Auger', 'Ravage', 'Stretch'])
+
+
+[DerelictDefenseRewards]
+
+
+Rotation A:
+Endo Chance: 25.0 (average per drop: 195.0, per run: 48.75)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 75.0 (types: ['1 LITH N1 RELIC', '1 LITH S3 RELIC', '1 LITH V1 RELIC', '1 LITH A1 RELIC', '1 LITH C1 RELIC', '1 LITH K1 RELIC'])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 77.44 (average per drop: 195.0, per run: 151.008)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 22.56 (types: ['MUTALIST ALAD V NAV COORDINATE'])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 22.56 (types: ['1 FORMA BLUEPRINT'])
+Relic Chance: 77.46 (types: ['1 MESO V1 RELIC', '1 MESO D1 RELIC', '1 MESO S2 RELIC', '1 MESO F1 RELIC', '1 MESO V2 RELIC', '1 MESO S1 RELIC'])
+Mod Chance: 0 (types: [])
+
+
+[DerelictSurvivalRewards]
+
+
+Rotation A:
+Endo Chance: 50.0 (average per drop: 195.0, per run: 97.5)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 50.0 (types: ['1 LITH C1 RELIC', '1 LITH A1 RELIC'])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 85.74 (types: ['1 NEO V2 RELIC', '1 NEO N3 RELIC', '1 NEO S1 RELIC', '1 NEO S3 RELIC', '1 NEO N2 RELIC', '1 NEO V3 RELIC'])
+Mod Chance: 14.29 (types: ['MUTALIST ALAD V NAV COORDINATE'])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 22.56 (types: ['1 FORMA BLUEPRINT'])
+Relic Chance: 77.44 (types: ['1 AXI G1 RELIC', '1 AXI T1 RELIC', '1 AXI N2 RELIC', '1 AXI V3 RELIC', '1 AXI N3 RELIC', '1 AXI V1 RELIC', '1 AXI N1 RELIC', '1 AXI A1 RELIC'])
+Mod Chance: 0 (types: [])
+
+
+[ExtractionMissionRewards/ExtractionHighLevelRewards]
+
+
+Rotation A:
+Endo Chance: 25.0 (average per drop: 400.0, per run: 100.0)
+Credit Chance: 75.0 (average per drop: 2500.0, per run: 1875.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 42.84 (types: ['1 NEO S1 RELIC', '1 NEO S3 RELIC', '1 NEO N3 RELIC', '1 NEO N2 RELIC', '1 NEO V2 RELIC', '1 NEO V3 RELIC'])
+Mod Chance: 57.12 (types: ['Steel Fiber', 'Stretch', 'Serration', "Hell's Chamber", 'Hornet Strike', 'Flow', 'Split Chamber', 'Stabilizer'])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 77.44 (types: ['1 AXI G1 RELIC', '1 AXI T1 RELIC', '1 AXI N2 RELIC', '1 AXI V3 RELIC', '1 AXI N3 RELIC', '1 AXI N1 RELIC', '1 AXI V1 RELIC', '1 AXI A1 RELIC'])
+Mod Chance: 22.56 (types: ['Cleanse Infested', 'Pistol Ammo Mutation', 'Arrow Mutation', 'Rifle Ammo Mutation', 'Sniper Ammo Mutation', 'Shotgun Ammo Mutation'])
+
+
+[ExtractionMissionRewards/ExtractionLowLevelRewards]
+
+
+Rotation A:
+Endo Chance: 42.87 (average per drop: 48.3333333333, per run: 20.7205)
+Credit Chance: 57.16 (average per drop: 1250.0, per run: 714.5)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 49.98 (types: ['1 LITH N1 RELIC', '1 LITH A1 RELIC', '1 LITH C1 RELIC', '1 LITH V1 RELIC', '1 LITH S3 RELIC', '1 LITH K1 RELIC'])
+Mod Chance: 49.98 (types: ['Parry', 'Steel Fiber', 'Serration', 'Incendiary Coat', 'Hornet Strike', 'Intensify'])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 77.46 (types: ['1 LITH N1 RELIC', '1 LITH A1 RELIC', '1 LITH C1 RELIC', '1 LITH V1 RELIC', '1 LITH S3 RELIC', '1 LITH K1 RELIC'])
+Mod Chance: 22.56 (types: ['Arrow Mutation', 'Rifle Ammo Mutation', 'Sniper Ammo Mutation', 'Shotgun Ammo Mutation', 'Pistol Ammo Mutation', 'Cleanse Grineer'])
+
+
+[ExtractionMissionRewards/ExtractionMidLevelRewards]
+
+
+Rotation A:
+Endo Chance: 50.01 (average per drop: 48.3333333333, per run: 24.1715)
+Credit Chance: 50.01 (average per drop: 2000.0, per run: 1000.2)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 46.14 (types: ['1 MESO D1 RELIC', '1 MESO V1 RELIC', '1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 MESO F1 RELIC', '1 MESO S1 RELIC'])
+Mod Chance: 53.83 (types: ['Provoked', 'Steel Fiber', 'Serration', 'Hornet Strike', 'Fast Deflection', 'Charged Shell', 'Vital Sense'])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 77.46 (types: ['1 NEO S1 RELIC', '1 NEO S3 RELIC', '1 NEO N3 RELIC', '1 NEO N2 RELIC', '1 NEO V2 RELIC', '1 NEO V3 RELIC'])
+Mod Chance: 22.56 (types: ['Cleanse Corpus', 'Pistol Ammo Mutation', 'Arrow Mutation', 'Rifle Ammo Mutation', 'Sniper Ammo Mutation', 'Shotgun Ammo Mutation'])
+
+
+[InterceptionMissionRewards/ArchwingInterceptionMissionRewardsHard]
+
+
+Rotation A:
+Endo Chance: 77.44 (average per drop: 200.0, per run: 154.88)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 22.59 (types: ['Automatic Trigger', 'Combustion Rounds', 'Dual Rounds', 'Hollowed Bullets', 'Magazine Extension', 'Modified Munitions', 'Parallax Scope', 'Rubedo-Lined Barrel', 'Venomous Clip'])
+
+
+Rotation B:
+Endo Chance: 20.0 (average per drop: 150.0, per run: 30.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 80.0 (types: ['Superior Defenses', 'Bleeding Edge', 'Superior Defenses', 'Argon Plating', 'Furor', 'Glacial Edge', 'Electrified Barrel', 'Energy Inversion'])
+
+
+Rotation C:
+Endo Chance: 31.16 (average per drop: 358.600770218, per run: 111.74)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 68.8 (types: ['1 AXI G1 RELIC', '1 AXI T1 RELIC', '1 AXI V1 RELIC', '1 AXI N3 RELIC', '1 AXI N1 RELIC', '1 AXI A1 RELIC', '1 AXI V3 RELIC', '1 AXI N2 RELIC'])
+Mod Chance: 0 (types: [])
+
+
+[InterceptionMissionRewards/InterceptionMissionRewardsEasy]
+
+
+Rotation A:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 60.0 (types: ['1 LITH A1 RELIC', '1 LITH C1 RELIC', '1 LITH V1 RELIC', '1 LITH S3 RELIC', '1 LITH N1 RELIC', '1 LITH K1 RELIC'])
+Mod Chance: 40.0 (types: ['Vitality', 'Magazine Warp', 'Trick Mag', 'Pressure Point'])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 37.5 (types: ['1 MESO V1 RELIC', '1 MESO D1 RELIC', '1 MESO V2 RELIC', '1 MESO S2 RELIC', '1 MESO F1 RELIC', '1 MESO S1 RELIC'])
+Mod Chance: 62.5 (types: ['Speed Trigger', 'Fast Deflection', 'Rush', 'Target Cracker', 'No Return', 'Serration', 'Hornet Strike', 'Reflex Coil', 'Deep Freeze', 'North Wind'])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 97.44 (types: ['1 MESO V1 RELIC', '1 MESO D1 RELIC', '1 MESO V2 RELIC', '1 MESO S2 RELIC', '1 MESO F1 RELIC', '1 MESO S1 RELIC'])
+Mod Chance: 2.58 (types: ['Natural Talent'])
+
+
+[InterceptionMissionRewards/InterceptionMissionRewardsHard]
+
+
+Rotation A:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 66.66 (types: ['1 NEO S3 RELIC', '1 NEO S1 RELIC', '1 NEO N2 RELIC', '1 NEO N3 RELIC', '1 NEO V2 RELIC', '1 NEO V3 RELIC'])
+Mod Chance: 33.33 (types: ['Vitality', 'Magazine Warp', 'Trick Mag'])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 100.03 (types: ['1 AXI N2 RELIC', '1 AXI G1 RELIC', '1 AXI T1 RELIC', '1 AXI N1 RELIC', '1 AXI N3 RELIC', '1 AXI V1 RELIC', '1 AXI A1 RELIC'])
+Mod Chance: 0 (types: [])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 100.02 (types: ['1 AXI N2 RELIC', '1 AXI N1 RELIC', '1 AXI V3 RELIC', '1 AXI V1 RELIC', '1 AXI G1 RELIC', '1 AXI T1 RELIC', '1 AXI N3 RELIC', '1 AXI A1 RELIC'])
+Mod Chance: 0 (types: [])
+
+
+[InterceptionMissionRewards/InterceptionMissionRewardsMedium]
+
+
+Rotation A:
+Endo Chance: 10.0 (average per drop: 15.0, per run: 1.5)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 60.0 (types: ['1 MESO V1 RELIC', '1 MESO D1 RELIC', '1 MESO V2 RELIC', '1 MESO S2 RELIC', '1 MESO F1 RELIC', '1 MESO S1 RELIC'])
+Mod Chance: 30.0 (types: ['Vitality', 'Magazine Warp', 'Trick Mag'])
+
+
+Rotation B:
+Endo Chance: 7.14 (average per drop: 50.0, per run: 3.57)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 42.84 (types: ['1 NEO S3 RELIC', '1 NEO S1 RELIC', '1 NEO N2 RELIC', '1 NEO N3 RELIC', '1 NEO V2 RELIC', '1 NEO V3 RELIC'])
+Mod Chance: 49.98 (types: ['Target Cracker', 'No Return', 'Serration', 'Hornet Strike', 'Reflex Coil', 'North Wind', "Hell's Chamber"])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 100.02 (types: ['1 NEO S3 RELIC', '1 NEO S1 RELIC', '1 NEO N2 RELIC', '1 NEO N3 RELIC', '1 NEO V2 RELIC', '1 NEO V3 RELIC'])
+Mod Chance: 0 (types: [])
+
+
+[InterceptRewardsGrineer]
+
+
+Rotation A:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 13.8 (types: ['1 LITH C1 RELIC', '1 LITH V1 RELIC', '1 LITH N1 RELIC', '1 LITH S3 RELIC', '1 LITH A1 RELIC'])
+Mod Chance: 86.19 (types: ['Vitality', 'Fast Deflection', 'Fast Deflection', 'Rush', 'Magazine Warp', 'Trick Mag', 'Pressure Point', 'Ammo Drum', 'Fast Hands'])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 9.2 (types: ['1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 MESO D1 RELIC', '1 MESO F1 RELIC', '1 MESO V1 RELIC'])
+Mod Chance: 90.76 (types: ['Speed Trigger', 'Fast Hands', 'Point Strike', 'Vital Sense', 'Piercing Hit', 'Metal Auger', 'Pistol Gambit', 'Target Cracker', 'No Return', 'Ravage', 'Blunderbuss', 'Point Blank', 'Serration', 'Hornet Strike', 'Fury', 'Reflex Coil', 'Pressure Point'])
+
+
+Rotation C:
+Endo Chance: 21.18 (average per drop: 53.1303116147, per run: 11.253)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 48.99 (types: ['1 NEO N3 RELIC', '1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 NEO S1 RELIC', '1 NEO V2 RELIC', '1 NEO S3 RELIC', '1 NEO N2 RELIC'])
+Mod Chance: 29.83 (types: ['Natural Talent', 'North Wind', 'Cryo Rounds', "Hell's Chamber", 'Stretch', 'Streamline', 'Handspring'])
+
+
+[MacheteMayhemBonusRewards]
+
+
+Rotation A:
+Endo Chance: 75.88 (average per drop: 400.0, per run: 303.52)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 24.15 (types: ['MADURAI LENS', 'VAZARIN LENS', 'ZENURIK LENS', 'NARAMON LENS', 'UNAIRU LENS', 'FORMA', 'EXILUS ADAPTER', 'Voltaic Strike', 'Jolt', 'High Voltage', 'Shell Shock'])
+
+
+[MissionRewardsCorpus]
+
+
+Rotation A:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 32.75 (types: ['1 LITH C1 RELIC', '1 LITH V1 RELIC', '1 LITH N1 RELIC', '1 LITH S3 RELIC', '1 LITH A1 RELIC'])
+Mod Chance: 67.28 (types: ['Vitality', 'Fast Deflection', 'Fast Deflection', 'Rush', 'Magazine Warp', 'Trick Mag', 'Pressure Point', 'Ammo Drum', 'Fast Hands'])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 9.2 (types: ['1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 MESO D1 RELIC', '1 MESO F1 RELIC', '1 MESO V1 RELIC'])
+Mod Chance: 90.76 (types: ['Speed Trigger', 'Fast Hands', 'Point Strike', 'Vital Sense', 'Piercing Hit', 'Metal Auger', 'Pistol Gambit', 'Target Cracker', 'No Return', 'Ravage', 'Blunderbuss', 'Point Blank', 'Serration', 'Hornet Strike', 'Fury', 'Reflex Coil', 'Pressure Point'])
+
+
+Rotation C:
+Endo Chance: 17.39 (average per drop: 53.8125359402, per run: 9.358)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 41.41 (types: ['1 NEO N3 RELIC', '1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 NEO S1 RELIC', '1 NEO V2 RELIC', '1 NEO S3 RELIC', '1 NEO N2 RELIC'])
+Mod Chance: 41.21 (types: ['Convulsion', 'Shocking Touch', 'Stormbringer', 'Split Chamber', 'Stretch', 'Continuity', 'Master Thief'])
+
+
+[MissionRewardsGrineer]
+
+
+Rotation A:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 13.8 (types: ['1 LITH C1 RELIC', '1 LITH V1 RELIC', '1 LITH N1 RELIC', '1 LITH S3 RELIC', '1 LITH A1 RELIC'])
+Mod Chance: 86.19 (types: ['Vitality', 'Fast Deflection', 'Fast Deflection', 'Rush', 'Magazine Warp', 'Trick Mag', 'Pressure Point', 'Ammo Drum', 'Fast Hands'])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 9.2 (types: ['1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 MESO D1 RELIC', '1 MESO F1 RELIC', '1 MESO V1 RELIC'])
+Mod Chance: 90.76 (types: ['Speed Trigger', 'Fast Hands', 'Point Strike', 'Vital Sense', 'Piercing Hit', 'Metal Auger', 'Pistol Gambit', 'Target Cracker', 'No Return', 'Ravage', 'Blunderbuss', 'Point Blank', 'Serration', 'Hornet Strike', 'Fury', 'Reflex Coil', 'Pressure Point'])
+
+
+Rotation C:
+Endo Chance: 17.39 (average per drop: 53.8125359402, per run: 9.358)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 41.41 (types: ['1 NEO N3 RELIC', '1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 NEO S1 RELIC', '1 NEO V2 RELIC', '1 NEO S3 RELIC', '1 NEO N2 RELIC'])
+Mod Chance: 41.21 (types: ['Deep Freeze', 'North Wind', 'Cryo Rounds', "Hell's Chamber", 'Stretch', 'Streamline', 'Handspring'])
+
+
+[MissionRewardsInfested]
+
+
+Rotation A:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 13.8 (types: ['1 LITH C1 RELIC', '1 LITH V1 RELIC', '1 LITH N1 RELIC', '1 LITH S3 RELIC', '1 LITH A1 RELIC'])
+Mod Chance: 86.19 (types: ['Vitality', 'Fast Deflection', 'Fast Deflection', 'Rush', 'Magazine Warp', 'Trick Mag', 'Pressure Point', 'Ammo Drum', 'Fast Hands'])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 9.2 (types: ['1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 MESO D1 RELIC', '1 MESO F1 RELIC', '1 MESO V1 RELIC'])
+Mod Chance: 90.76 (types: ['Speed Trigger', 'Fast Hands', 'Point Strike', 'Vital Sense', 'Piercing Hit', 'Metal Auger', 'Pistol Gambit', 'Target Cracker', 'No Return', 'Ravage', 'Blunderbuss', 'Point Blank', 'Serration', 'Hornet Strike', 'Fury', 'Reflex Coil', 'Pressure Point'])
+
+
+Rotation C:
+Endo Chance: 17.39 (average per drop: 53.8125359402, per run: 9.358)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 41.41 (types: ['1 NEO N3 RELIC', '1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 NEO S1 RELIC', '1 NEO V2 RELIC', '1 NEO S3 RELIC', '1 NEO N2 RELIC'])
+Mod Chance: 41.21 (types: ['Hellfire', 'Heated Charge', 'Molten Impact', 'Barrel Diffusion', 'Streamline', 'Intensify', 'Thunderbolt'])
+
+
+[ProjectPanaceaBonusRewards]
+
+
+Rotation A:
+Endo Chance: 22.13 (average per drop: 457.117035698, per run: 101.16)
+Credit Chance: 25.29 (average per drop: 3249.9011467, per run: 821.9)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 52.58 (types: ['RIFT SIGIL', 'Stunning Speed', 'Hammer Shot', 'Blaze', 'Buzz Kill', 'Maim', 'Fanged Fusillade', 'Sweeping Serration', 'DETONITE AMPULE', 'FIELDRON SAMPLE', 'MUTAGEN SAMPLE', '2 Madurai Transmute Core', '2 Vazarin Transmute Core', 'Naramon Transmute Core'])
+
+
+[ProjectSinisterRewardsBonus]
+
+
+Rotation A:
+Endo Chance: 39.03 (average per drop: 420.90699462, per run: 164.28)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 60.96 (types: ['Shrapnel Shot', 'Catalyzer Link', 'Hydraulic Crosshairs', 'Body Count', 'Focused Defense'])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 100.04 (types: ['Hydraulic Crosshairs', 'Body Count', 'Blood Rush', 'Sharpened Bullets', 'Bladed Rounds', 'Embedded Catalyzer', 'Nano-Applicator', 'Argon Scope', 'Guided Ordnance', 'Targeting Subsystem'])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 100.01 (types: ['Shrapnel Shot', 'Catalyzer Link', 'Laser Sight', 'Weeping Wounds', 'Spring-Loaded Chamber', 'Repeater Clip', 'Maiming Strike', 'Pressurized Magazine', 'Narrow Barrel'])
+
+
+[ProjectSinisterRewardsFinal]
+
+
+Rotation A:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 99.99 (types: ['Shrapnel Shot', 'Catalyzer Link', 'Hydraulic Crosshairs', 'Blood Rush', 'Sharpened Bullets', 'Bladed Rounds', 'Body Count', 'Embedded Catalyzer', 'Laser Sight', 'Weeping Wounds', 'Spring-Loaded Chamber', 'Repeater Clip', 'Maiming Strike', 'Nano-Applicator', 'Argon Scope', 'Pressurized Magazine', 'Targeting Subsystem', 'Guided Ordnance', 'Narrow Barrel', 'Focused Defense'])
+
+
+[SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards]
+
+
+Rotation A:
+Endo Chance: 25.0 (average per drop: 400.0, per run: 100.0)
+Credit Chance: 75.0 (average per drop: 2500.0, per run: 1875.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 42.84 (types: ['1 NEO S1 RELIC', '1 NEO S3 RELIC', '1 NEO N3 RELIC', '1 NEO N2 RELIC', '1 NEO V2 RELIC', '1 NEO V3 RELIC'])
+Mod Chance: 57.12 (types: ['Steel Fiber', 'Stretch', 'Serration', "Hell's Chamber", 'Hornet Strike', 'Flow', 'Split Chamber', 'Stabilizer'])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 77.44 (types: ['1 AXI G1 RELIC', '1 AXI T1 RELIC', '1 AXI N2 RELIC', '1 AXI V3 RELIC', '1 AXI N3 RELIC', '1 AXI N1 RELIC', '1 AXI V1 RELIC', '1 AXI A1 RELIC'])
+Mod Chance: 22.56 (types: ['Enduring Strike', 'Life Strike'])
+
+
+[SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards]
+
+
+Rotation A:
+Endo Chance: 42.87 (average per drop: 48.3333333333, per run: 20.7205)
+Credit Chance: 57.16 (average per drop: 1250.0, per run: 714.5)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 49.98 (types: ['1 LITH N1 RELIC', '1 LITH A1 RELIC', '1 LITH C1 RELIC', '1 LITH V1 RELIC', '1 LITH S3 RELIC', '1 LITH K1 RELIC'])
+Mod Chance: 49.98 (types: ['Parry', 'Steel Fiber', 'Serration', 'Incendiary Coat', 'Hornet Strike', 'Intensify'])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 77.46 (types: ['1 LITH N1 RELIC', '1 LITH A1 RELIC', '1 LITH C1 RELIC', '1 LITH V1 RELIC', '1 LITH S3 RELIC', '1 LITH K1 RELIC'])
+Mod Chance: 22.56 (types: ['True Punishment', 'Quickening'])
+
+
+[SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards]
+
+
+Rotation A:
+Endo Chance: 50.01 (average per drop: 48.3333333333, per run: 24.1715)
+Credit Chance: 50.01 (average per drop: 2000.0, per run: 1000.2)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 46.14 (types: ['1 MESO D1 RELIC', '1 MESO V1 RELIC', '1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 MESO F1 RELIC', '1 MESO S1 RELIC'])
+Mod Chance: 53.83 (types: ['Provoked', 'Steel Fiber', 'Serration', 'Hornet Strike', 'Fast Deflection', 'Charged Shell', 'Vital Sense'])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 77.46 (types: ['1 NEO S1 RELIC', '1 NEO S3 RELIC', '1 NEO N3 RELIC', '1 NEO N2 RELIC', '1 NEO V2 RELIC', '1 NEO V3 RELIC'])
+Mod Chance: 22.56 (types: ['Quickening', 'Enduring Strike'])
+
+
+[SurvivalMissionRewards/SurvivalBadlandsUltraLevelRewards]
+
+
+Rotation A:
+Endo Chance: 25.0 (average per drop: 400.0, per run: 100.0)
+Credit Chance: 75.0 (average per drop: 2500.0, per run: 1875.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 100.02 (types: ['1 NEO S1 RELIC', '1 NEO S3 RELIC', '1 NEO N3 RELIC', '1 NEO N2 RELIC', '1 NEO V2 RELIC', '1 NEO V3 RELIC'])
+Mod Chance: 0 (types: [])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 88.88 (types: ['1 AXI G1 RELIC', '1 AXI T1 RELIC', '1 AXI N2 RELIC', '1 AXI V3 RELIC', '1 AXI N3 RELIC', '1 AXI N1 RELIC', '1 AXI V1 RELIC', '1 AXI A1 RELIC'])
+Mod Chance: 11.11 (types: ['Life Strike'])
+
+
+[SurvivalMissionRewards/SurvivalGeneticFoundryRewards]
+
+
+Rotation B:
+Endo Chance: 33.33 (average per drop: 80.0, per run: 26.664)
+Credit Chance: 66.66 (average per drop: 3000.0, per run: 1999.8)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation C:
+Endo Chance: 33.33 (average per drop: 80.0, per run: 26.664)
+Credit Chance: 66.66 (average per drop: 3000.0, per run: 1999.8)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+[SurvivalMissionRewards/SurvivalHighLevelRewards]
+
+
+Rotation A:
+Endo Chance: 25.0 (average per drop: 400.0, per run: 100.0)
+Credit Chance: 75.0 (average per drop: 2500.0, per run: 1875.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 42.84 (types: ['1 NEO S1 RELIC', '1 NEO S3 RELIC', '1 NEO N3 RELIC', '1 NEO N2 RELIC', '1 NEO V2 RELIC', '1 NEO V3 RELIC'])
+Mod Chance: 57.12 (types: ['Steel Fiber', 'Stretch', 'Serration', "Hell's Chamber", 'Hornet Strike', 'Flow', 'Split Chamber', 'Stabilizer'])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 77.44 (types: ['1 AXI G1 RELIC', '1 AXI T1 RELIC', '1 AXI N2 RELIC', '1 AXI V3 RELIC', '1 AXI N3 RELIC', '1 AXI N1 RELIC', '1 AXI V1 RELIC', '1 AXI A1 RELIC'])
+Mod Chance: 22.56 (types: ['Cleanse Infested', 'Pistol Ammo Mutation', 'Arrow Mutation', 'Rifle Ammo Mutation', 'Sniper Ammo Mutation', 'Shotgun Ammo Mutation'])
+
+
+[SurvivalMissionRewards/SurvivalLowLevelRewards]
+
+
+Rotation A:
+Endo Chance: 42.87 (average per drop: 48.3333333333, per run: 20.7205)
+Credit Chance: 57.16 (average per drop: 1250.0, per run: 714.5)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 49.98 (types: ['1 LITH N1 RELIC', '1 LITH A1 RELIC', '1 LITH C1 RELIC', '1 LITH V1 RELIC', '1 LITH S3 RELIC', '1 LITH K1 RELIC'])
+Mod Chance: 49.98 (types: ['Parry', 'Steel Fiber', 'Serration', 'Incendiary Coat', 'Hornet Strike', 'Intensify'])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 77.46 (types: ['1 LITH N1 RELIC', '1 LITH A1 RELIC', '1 LITH C1 RELIC', '1 LITH V1 RELIC', '1 LITH S3 RELIC', '1 LITH K1 RELIC'])
+Mod Chance: 22.56 (types: ['Arrow Mutation', 'Rifle Ammo Mutation', 'Sniper Ammo Mutation', 'Shotgun Ammo Mutation', 'Pistol Ammo Mutation', 'Cleanse Grineer'])
+
+
+[SurvivalMissionRewards/SurvivalMidLevelRewards]
+
+
+Rotation A:
+Endo Chance: 50.01 (average per drop: 48.3333333333, per run: 24.1715)
+Credit Chance: 50.01 (average per drop: 2000.0, per run: 1000.2)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 46.14 (types: ['1 MESO D1 RELIC', '1 MESO V1 RELIC', '1 MESO S2 RELIC', '1 MESO V2 RELIC', '1 MESO F1 RELIC', '1 MESO S1 RELIC'])
+Mod Chance: 53.83 (types: ['Provoked', 'Steel Fiber', 'Serration', 'Hornet Strike', 'Fast Deflection', 'Charged Shell', 'Vital Sense'])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 77.46 (types: ['1 NEO S1 RELIC', '1 NEO S3 RELIC', '1 NEO N3 RELIC', '1 NEO N2 RELIC', '1 NEO V2 RELIC', '1 NEO V3 RELIC'])
+Mod Chance: 22.56 (types: ['Cleanse Corpus', 'Pistol Ammo Mutation', 'Arrow Mutation', 'Rifle Ammo Mutation', 'Sniper Ammo Mutation', 'Shotgun Ammo Mutation'])
+
+
+[SurvivalMissionRewards/SurvivalUltraLevelRewards]
+
+
+Rotation A:
+Endo Chance: 25.0 (average per drop: 400.0, per run: 100.0)
+Credit Chance: 75.0 (average per drop: 2500.0, per run: 1875.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 0 (types: [])
+Mod Chance: 0 (types: [])
+
+
+Rotation B:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 100.02 (types: ['1 NEO S1 RELIC', '1 NEO S3 RELIC', '1 NEO N3 RELIC', '1 NEO N2 RELIC', '1 NEO V2 RELIC', '1 NEO V3 RELIC'])
+Mod Chance: 0 (types: [])
+
+
+Rotation C:
+Endo Chance: 0 (average per drop: 0, per run: 0.0)
+Credit Chance: 0 (average per drop: 0, per run: 0.0)
+Blueprint Chance: 0 (types: [])
+Relic Chance: 100.0 (types: ['1 AXI G1 RELIC', '1 AXI T1 RELIC', '1 AXI N2 RELIC', '1 AXI V3 RELIC', '1 AXI N3 RELIC', '1 AXI N1 RELIC', '1 AXI V1 RELIC', '1 AXI A1 RELIC'])
+Mod Chance: 0 (types: [])
