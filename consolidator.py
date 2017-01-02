@@ -42,7 +42,7 @@ for token in tokens:
       rewards['mods'] = []
       rewards['modChance'] = 0
       for line in lines:
-        if "  " not in line:
+        if "  " not in line or "%" not in line:
           continue
         amount = reduce(lambda x, y: x*y, [int(s) for s in line.split() if s.isdigit()])
         regex = re.compile('[0-9]+\.*[0-9]*%')
